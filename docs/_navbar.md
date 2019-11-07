@@ -2,10 +2,11 @@
 
 * About
 
-  * [alpha](alpha)
-  * [beta](beta)
+  * [alpha](_alpha.md)
+  * [beta](_beta.md)
+  
 * Projects
 
-  * [project1](projects1.md)
-  * [project2](projects2.md)
+  * [project1](_projects1.md)
+  * [project2](_projects2.md)
   
